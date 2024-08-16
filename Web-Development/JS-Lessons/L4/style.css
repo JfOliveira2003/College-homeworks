@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+
+main{
+    padding-left: 300px;
+    margin: 0px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 600px;
+    width: 700px;
+    
+}
+div{
+    margin-right: 200px;
+}
+#presentation{
+    width: 350px;
+    height: 250px;
+    background-color: azure;
+    margin-top: 30px;
+    border-radius: 10px 5px;
+}
+#poke-img{
+    margin-top: 20px;
+    margin-left: 120px;
+    background-color:goldenrod;
+    border-radius: 50%;
+}
